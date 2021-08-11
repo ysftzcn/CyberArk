@@ -46,3 +46,5 @@ function PAS-UPdateAccount {
 
 }}
 
+#Close active CyberArk Session
+Close-PASSession
