@@ -1,7 +1,6 @@
 # CyberArk uzerindeki hesaplarda tanımlı olan RemoteAddress tanımlarını değiştirmek için kullanılır. psPAS module ihtiyac vardir.
 # Install-Module -Name psPAS -Scope CurrentUser
 # Yusuf TEZCAN
-# Domino's Security
 
 # Check psPAS module
 
